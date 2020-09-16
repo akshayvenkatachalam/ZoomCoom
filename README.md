@@ -23,3 +23,5 @@ Lets you get to the stage to choose audio deivce. Feature will be updated
 
 ### Example
 > python zoomcoom_not_racist.py -m 12345678900 -p password -e e@mail.com -ep hackmepls -exe "C:\\\GarbageUser\\\Zoom.exe"
+
+Feel free to change the name of the program file, but I suggest you let it remain, for tradition's sake
