@@ -18,7 +18,7 @@ Lets you get to the stage to choose audio deivce. Feature will be updated
   -e EMAIL, --email EMAIL      email id  
   -m MEET, --meet MEET         meeting id  
   -p PWD, --pwd PWD            meeting password  
-  -ep EPWD, --epwd EPWD        email password  
+  -ep EPWD, --epwd EPWD        zoom user password  
   -exe EXELOC, --exeloc EXELOC zoom exe location
 
 ### Example
