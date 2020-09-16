@@ -20,3 +20,6 @@ Lets you get to the stage to choose audio deivce. Feature will be updated
   -p PWD, --pwd PWD            meeting password  
   -ep EPWD, --epwd EPWD        email password  
   -exe EXELOC, --exeloc EXELOC zoom exe location
+
+### Example
+> python zoomcoom_not_racist.py -m 12345678900 -p password -e e@mail.com -ep hackmepls -exe "C:\\GarbageUser\\Zoom.exe"
