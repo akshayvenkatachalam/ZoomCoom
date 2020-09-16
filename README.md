@@ -11,7 +11,7 @@ Lets you get to the stage to choose audio deivce. Feature will be updated
 6. os
 
 ### Usage
-1. Make sure to fill up the deafults for arguments if the program will be used repeatedly for the same meeting/email  
+1. Make sure to fill up the deafults for arguments if the program will be used repeatedly for/with the same meeting/email  
 2. #### **FILL UP DEFAULT FOR ZOOM.EXE IN THE WINDOWS FORMAT**
 3. Required arguments (if defaults not filled):  
   -h, --help            show this help message and exit  
