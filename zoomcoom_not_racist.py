@@ -30,6 +30,8 @@ def cooming(meet, pwd, email, epwd):
 		pepe.typewrite(pwd)
 		centre = pepe.locateCenterOnScreen('images/join_meet.png')
 		pepe.click(x = centre[0], y = centre[1])
+		centre = pepe.locateCenterOnScreen('images/comp_audio.png')
+		pepe.click(x = centre[0], y = centre[1])
 	else:# pepe.locateCenterOnScreen('images/sign_in.png') is not None:
 		centre = list(pepe.locateCenterOnScreen('images/sign_in.png'))
 		pepe.click(x = centre[0], y = centre[1])
