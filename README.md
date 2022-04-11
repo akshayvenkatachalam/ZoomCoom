@@ -1,4 +1,4 @@
-# ZoomCoom (not racist)
+# ZoomCoom
 Auto login to Zoom meetings  
 Joins meetings using "computer audio"  
 
